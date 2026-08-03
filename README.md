@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/lawrance-ai/leetcode_problems/tree/master/0657-robot-return-to-origin) |
 ## Linked List
 |  |
@@ -91,16 +92,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Dynamic Programming
 |  |
