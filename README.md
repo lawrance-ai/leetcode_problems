@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
@@ -82,9 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
