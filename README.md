@@ -135,9 +135,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/lawrance-ai/leetcode_problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lawrance-ai/leetcode_problems/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lawrance-ai/leetcode_problems/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/lawrance-ai/leetcode_problems/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/lawrance-ai/leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
