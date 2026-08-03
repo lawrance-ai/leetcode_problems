@@ -143,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/lawrance-ai/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/lawrance-ai/leetcode_problems/tree/master/0657-robot-return-to-origin) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Backtracking
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lawrance-ai/leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lawrance-ai/leetcode_problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lawrance-ai/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Memoization
 |  |
 | ------- |
