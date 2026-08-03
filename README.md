@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/lawrance-ai/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/lawrance-ai/leetcode_problems/tree/master/0657-robot-return-to-origin) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/lawrance-ai/leetcode_problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Linked List
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
