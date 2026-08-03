@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/1288-remove-covered-intervals) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/1288-remove-covered-intervals) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/lawrance-ai/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lawrance-ai/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lawrance-ai/leetcode_problems/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
