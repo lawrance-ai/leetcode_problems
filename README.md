@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 ## Sliding Window
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0657-robot-return-to-origin](https://github.com/lawrance-ai/leetcode_problems/tree/master/0657-robot-return-to-origin) |
 ## Linked List
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/lawrance-ai/leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1929-concatenation-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
