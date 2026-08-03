@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/lawrance-ai/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lawrance-ai/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lawrance-ai/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lawrance-ai/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
