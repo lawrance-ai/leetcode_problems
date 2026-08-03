@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
 |  |
@@ -26,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
