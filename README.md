@@ -5,8 +5,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0001-two-sum) |
+| [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0001-two-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
+## Sorting
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
