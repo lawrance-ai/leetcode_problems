@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/lawrance-ai/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/lawrance-ai/leetcode_problems/tree/master/0657-robot-return-to-origin) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lawrance-ai/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/lawrance-ai/leetcode_problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Linked List
@@ -143,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/lawrance-ai/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lawrance-ai/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/lawrance-ai/leetcode_problems/tree/master/0657-robot-return-to-origin) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lawrance-ai/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Backtracking
