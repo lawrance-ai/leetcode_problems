@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/lawrance-ai/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/lawrance-ai/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/lawrance-ai/leetcode_problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lawrance-ai/leetcode_problems/tree/master/0070-climbing-stairs) |
 ## Memoization
