@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
+| [0485-max-consecutive-ones](https://github.com/lawrance-ai/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/1288-remove-covered-intervals) |
