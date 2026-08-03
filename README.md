@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/lawrance-ai/leetcode_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lawrance-ai/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/lawrance-ai/leetcode_problems/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/lawrance-ai/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lawrance-ai/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
