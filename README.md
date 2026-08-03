@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/lawrance-ai/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lawrance-ai/leetcode_problems/tree/master/0069-sqrtx) |
+| [1539-kth-missing-positive-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
 | ------- |
