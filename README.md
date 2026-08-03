@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/0056-merge-intervals) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 ## Bit Manipulation
 |  |
