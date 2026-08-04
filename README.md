@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/lawrance-ai/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/lawrance-ai/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
+| [3731-find-missing-elements](https://github.com/lawrance-ai/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3731-find-missing-elements](https://github.com/lawrance-ai/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
 | ------- |
