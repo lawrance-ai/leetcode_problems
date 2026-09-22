@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lawrance-ai/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lawrance-ai/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0164-maximum-gap](https://github.com/lawrance-ai/leetcode_problems/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lawrance-ai/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/lawrance-ai/leetcode_problems/tree/master/0147-insertion-sort-list) |
+| [0164-maximum-gap](https://github.com/lawrance-ai/leetcode_problems/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/lawrance-ai/leetcode_problems/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 ## Ordered Set
 |  |
@@ -266,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0229-majority-element-ii) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/lawrance-ai/leetcode_problems/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/lawrance-ai/leetcode_problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
