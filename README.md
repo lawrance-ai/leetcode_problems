@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/lawrance-ai/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/lawrance-ai/leetcode_problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/0056-merge-intervals) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/lawrance-ai/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/lawrance-ai/leetcode_problems/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lawrance-ai/leetcode_problems/tree/master/0075-sort-colors) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0047-permutations-ii) |
 ## Math
 |  |
 | ------- |
