@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/lawrance-ai/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0875-koko-eating-bananas](https://github.com/lawrance-ai/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1470-shuffle-the-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/lawrance-ai/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/lawrance-ai/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lawrance-ai/leetcode_problems/tree/master/0069-sqrtx) |
+| [0875-koko-eating-bananas](https://github.com/lawrance-ai/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
