@@ -291,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lawrance-ai/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/lawrance-ai/leetcode_problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
