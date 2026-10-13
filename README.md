@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/lawrance-ai/leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lawrance-ai/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/lawrance-ai/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/lawrance-ai/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/lawrance-ai/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/lawrance-ai/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lawrance-ai/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lawrance-ai/leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/lawrance-ai/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
