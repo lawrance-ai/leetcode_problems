@@ -7,7 +7,6 @@ class Solution {
 
             if(n%i==0)
             {
-                System.out.println("Sum="+sum+" I="+i);
                 sum+=nums[i-1]*nums[i-1];
             }
         }
