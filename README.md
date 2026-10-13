@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lawrance-ai/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/lawrance-ai/leetcode_problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lawrance-ai/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/lawrance-ai/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/lawrance-ai/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lawrance-ai/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/lawrance-ai/leetcode_problems/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lawrance-ai/leetcode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/lawrance-ai/leetcode_problems/tree/master/1288-remove-covered-intervals) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lawrance-ai/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/lawrance-ai/leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/lawrance-ai/leetcode_problems/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/lawrance-ai/leetcode_problems/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/lawrance-ai/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/lawrance-ai/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/lawrance-ai/leetcode_problems/tree/master/0657-robot-return-to-origin) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/lawrance-ai/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/lawrance-ai/leetcode_problems/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/lawrance-ai/leetcode_problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/lawrance-ai/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lawrance-ai/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lawrance-ai/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
